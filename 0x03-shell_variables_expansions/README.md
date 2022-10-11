@@ -11,3 +11,7 @@
 11. A script that converts a number from base 2 to base 10 in new line. number in base 2 is stored in the environment variable BINARY and The script should display the number in base 10
 12. A script that prints alpha ordered output of all possible combinations of two letters(a to z) in lower cases, except o,. maximum of 64 characters.
 13. A script that prints a number with two decimal places, followed by a new line, and stored in the environment variable NUM.
+14. Write a script that converts a number from base 10 to base 16. number in base 0 is stored in the environment variable DECIMAL and The script should display the number in base 16, followed by a new line.
+15. A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+16. A script that prints every other line from the input, starting with the first line.
+17. A shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result, with result available  in base bestchol
