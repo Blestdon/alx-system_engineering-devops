@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $BREATH | grep LOVE
+echo $(($BREATH**LOVE))
